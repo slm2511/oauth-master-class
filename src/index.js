@@ -24,7 +24,7 @@ window.onload = () => {
          response_type: 'token',
          redirect_uri: 'https://yas09.vercel.app/token.html'
       },
-      'https://yas08.vercel.app/'
+      'https://yas09.vercel.app/'
    )
    .then(({ handler }) => handler())
       .then(async (data) => {
