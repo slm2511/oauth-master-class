@@ -1,3 +1,7 @@
 window.onload = () => {
-  // TODO
+  YaSendSuggestToken(
+   'https://yas07.vercel.app/', {
+      flag: true
+   }
+)
 };
