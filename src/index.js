@@ -40,7 +40,7 @@ window.onload = () => {
     // TODO button
     window.YaAuthSuggest.init(
       {
-        client_id: "c46f0c53093440c39f12eff95a9f2f93",
+        client_id: "6908f8d1db3a44a2a16393b557ab4632",
         response_type: "token",
         redirect_uri: "https://oauth-master-class-lake.vercel.app/token.html",
       },
